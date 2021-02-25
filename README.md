@@ -1,5 +1,7 @@
-### Hi there my name is Gregorie Calderon👋 
+### Hi there! My name is Gregorie Calderon👋 
 
+<h5> Location: Los Angeles </h5>
+<h5> Pronouns: him/he </h5>
 <h1> :boom:Tech Stack</h1>
 <br> Javascript, React, HTML, CSS, Node, PostgreSQL, MongoDB, Express  </br>
 
