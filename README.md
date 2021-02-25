@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there my name is Gregorie Calderon👋 
+
+<h1> :boom:Tech Stack</h1>
+<br> Javascript, React, HTML, CSS, Node, PostgreSQL, MongoDB, Express  </br>
+
 
 <!--
 **Gregorie6112/Gregorie6112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
