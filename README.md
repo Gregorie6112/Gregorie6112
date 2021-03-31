@@ -3,7 +3,7 @@
 <h5> Location: Los Angeles </h5>
 <h5> Pronouns: him/he </h5>
 <h1> :boom:Tech Stack</h1>
-<br> Javascript, React, HTML, CSS, Node, PostgreSQL, MongoDB, Express  </br>
+<br> Javascript, Typescript, React, HTML, CSS, Node, noSQL / mySQL, Express  </br>
 
 
 <!--
