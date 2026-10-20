@@ -1,7 +1,4 @@
-### Hi there! My name is Gregorie Calderon, and currently employeed with Nexient👋 
-
 <h5> Location: Los Angeles </h5>
-<h5> Pronouns: him/he </h5>
 ## 📫 How to reach me: 
 <h5>Email: calderon_gregory6112@outlook.com</h5>
 <h1> :boom:Tech Stack</h1>
